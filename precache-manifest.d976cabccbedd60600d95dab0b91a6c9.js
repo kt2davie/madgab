@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff98db29e81cd9308452fb6e902c34dc",
+    "revision": "5c297a1bfef09838be37ddab21274653",
     "url": "/madgab/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/madgab/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "871f9d99229306aefdfe",
+    "revision": "014842f249b9a9f36d64",
     "url": "/madgab/static/css/main.0231d968.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/madgab/static/js/2.64550796.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "871f9d99229306aefdfe",
-    "url": "/madgab/static/js/main.78078b02.chunk.js"
+    "revision": "014842f249b9a9f36d64",
+    "url": "/madgab/static/js/main.c483a485.chunk.js"
   },
   {
     "revision": "0d4fb83ca30fea4b3214",
