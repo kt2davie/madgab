@@ -28,13 +28,11 @@ const ExampleToast = ({ children }) => {
 const Clue = ({children}) => {
     const [clue, setClue] = useState("Click Generate to start!");
     const [answer, setAnswer] = useState("");
-return (<> <Button onClick={async ()=>{ 
+return (<> <Button onClick={async ()=>{
     var response = await axios.get("https://krx9x5v1j2.execute-api.us-east-1.amazonaws.com/prod");
-    console.log(response);
-    
-    setClue(response.data.gab); console.log(clue); setAnswer(response.data.answer); }}> Generate New </Button> {clue} 
+    setClue(response.data.gab); setAnswer(response.data.answer); }}> Generate New </Button> {clue}
     <ExampleToast>{answer}</ExampleToast>
-    
+
     </> );
 };
 
