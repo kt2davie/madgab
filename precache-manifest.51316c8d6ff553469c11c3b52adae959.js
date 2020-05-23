@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c297a1bfef09838be37ddab21274653",
+    "revision": "9a8b306686ce793b75291fb272897f4b",
     "url": "/madgab/index.html"
   },
   {
-    "revision": "1a13b747062ec659c89b",
+    "revision": "4376389989c98ad4076f",
     "url": "/madgab/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "014842f249b9a9f36d64",
+    "revision": "ce9f58d6ef868400f0f1",
     "url": "/madgab/static/css/main.0231d968.chunk.css"
   },
   {
-    "revision": "1a13b747062ec659c89b",
-    "url": "/madgab/static/js/2.64550796.chunk.js"
+    "revision": "4376389989c98ad4076f",
+    "url": "/madgab/static/js/2.2ec3158f.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/madgab/static/js/2.64550796.chunk.js.LICENSE.txt"
+    "url": "/madgab/static/js/2.2ec3158f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "014842f249b9a9f36d64",
-    "url": "/madgab/static/js/main.c483a485.chunk.js"
+    "revision": "ce9f58d6ef868400f0f1",
+    "url": "/madgab/static/js/main.f7a015da.chunk.js"
   },
   {
     "revision": "0d4fb83ca30fea4b3214",
